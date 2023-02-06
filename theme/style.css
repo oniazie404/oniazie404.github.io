@@ -2,9 +2,9 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-image: linear-gradient(to bottom, #000, #936b95);
+    background-image: linear-gradient(to bottom, #000, #5b195f);
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 100%;
-    color: #ffffff;
+    color: #75b988;
   }
