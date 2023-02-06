@@ -3,5 +3,8 @@ html, body {
     border: 0;
     font-size: 100%;
     background-image: linear-gradient(to bottom, #000, #936b95);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
     color: #ffffff;
   }
