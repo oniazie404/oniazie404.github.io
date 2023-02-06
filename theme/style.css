@@ -1,8 +1,9 @@
+
 html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    /* background-color: black; */
-    background-image: linear-gradient(#000, #936b95);
+    background: linear-gradient(to bottom, black, purple);
+    /* background-image: linear-gradient(#000, #936b95); */
     color: #ffffff;
   }
